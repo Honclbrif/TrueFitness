@@ -1,0 +1,68 @@
+[
+	{
+		"name": "TrueTouch",
+		"url" : "cbt7g_4.7.47_FULL.swu",
+		"version": "4.7.47",
+		"filesize": 948214784
+	},
+	{
+		"name": "Nucleus",
+		"url" : "nfw-0a17.hex",
+		"version": "1.29",
+		"filesize": 598364
+	},
+	{
+		"name": "Nucleus",
+		"url" : "nfw-e3d2.hex",
+		"version": "1.30",
+		"filesize": 598364
+	},
+	{
+		"name": "IPTV",
+		"url" : "IptvIrInterface_v6_11_29_2018.hex",
+		"version": "6.11.29",
+		"filesize": 42849
+	},
+	{
+		"name": "TM016",
+		"url" : "TM016_V3.51.bin",
+		"version": "3.51",
+		"filesize": 14312502
+	},
+	{
+		"name": "TM016F",
+		"url" : "TM016_V1.66(800Mhz).bin",
+		"version": "1.66",
+		"filesize": 14352970
+	},
+	{
+		"name": "TM016H",
+		"url" : "TM016H_V3.67.bin",
+		"version": "3.67",
+		"filesize": 15046302
+	},
+	{
+		"name": "TM017",
+		"url" : "TM017_V1.59.bin",
+		"version": "1.59",
+		"filesize": 14544962
+	},
+	{
+		"name": "TM017H",
+		"url" : "TM017H_V3.60.bin",
+		"version": "3.60",
+		"filesize": 15019402
+	},
+	{
+		"name": "TM022",
+		"url" : "TM022_V1.35.bin",
+		"version": "1.35",
+		"filesize": 14392330
+	},
+	{
+		"name": "TM022H",
+		"url" : "ftp://dcipublic:dc1public!@digitalcpt.com/test/TM022H_V3.39.bin",
+		"version": "4.39",
+		"filesize": 14824294
+	}
+]
